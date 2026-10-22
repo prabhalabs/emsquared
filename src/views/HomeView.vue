@@ -35,9 +35,9 @@ const features = [
           A cinematic chess app for players who actually want to get better.
         </h1>
         <p class="mt-5 max-w-xl text-lg text-muted">
-          EM² Chess pairs a hand-crafted board with a real chess engine, interactive
-          lessons, and tools built for analysis — not just play. No account, no ads,
-          no internet connection required.
+          EM Squared Chess pairs a hand-crafted board with a real chess engine, interactive
+          lessons, and tools built for analysis — not just play. No account needed,
+          and gameplay works fully offline.
         </p>
         <div class="mt-8 flex flex-wrap gap-3.5">
           <AppButton :href="playStoreUrl" :disabled="!playStoreReady">
@@ -92,9 +92,10 @@ const features = [
             Built offline-first, on purpose
           </h2>
           <p class="mt-4 text-[16px] text-ivory/75">
-            EM² Chess doesn't request internet access and runs its chess engine
-            entirely on your device. Online multiplayer and friend challenges are
-            on the roadmap — those screens exist in the app today, clearly marked
+            EM Squared Chess's chess engine, lessons, and analysis tools run entirely on
+            your device and work fully offline — the App only needs a connection
+            to show ads. Online multiplayer and friend challenges are on the
+            roadmap — those screens exist in the app today, clearly marked
             "coming soon" — and will always be optional when they ship.
           </p>
         </div>

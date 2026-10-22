@@ -9,7 +9,7 @@ const logoSrc = `${import.meta.env.BASE_URL}logo-480.png`
   <header class="glass sticky top-0 z-20">
     <div class="mx-auto flex max-w-5xl items-center justify-between px-6 py-3">
       <router-link to="/" class="flex items-center gap-2.5" @click="open = false">
-        <img :src="logoSrc" alt="" width="36" height="24" class="h-9 w-auto" />
+        <img :src="logoSrc" alt="" width="48" height="48" class="h-12 w-12" />
         <span class="font-display text-[17px] font-semibold text-ink">EM Squared Chess</span>
       </router-link>
 

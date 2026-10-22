@@ -4,27 +4,29 @@
       Privacy Policy
     </h1>
     <p class="mt-2 text-[14.5px] text-muted-dim">
-      <strong class="text-muted">Effective date:</strong> October 21, 2026
+      <strong class="text-muted">Effective date:</strong> October 22, 2026
     </p>
 
     <p class="mt-5 text-[16px] text-muted">
-      Prabha Labs ("we", "us", "our") develops EM² Chess (the "App"). This policy
+      Prabha Labs ("we", "us", "our") develops EM Squared Chess (the "App"). This policy
       explains what the App does — and just as importantly, does not — do with
       your information.
     </p>
 
     <blockquote class="my-7 rounded-r-lg border-l-[3px] border-primary bg-card px-6 py-5">
       <p class="text-[16px] text-ink">
-        <strong>In short: EM² Chess does not collect, store, or transmit any
-        personal data.</strong>
-        There is no account system, no advertising, no analytics, and no
-        internet permission — everything you do in the App stays on your
-        device.
+        <strong>In short: there is no account system, and your games, lesson
+        progress, and preferences stay on your device.</strong>
+        The App's chess engine, lessons, and analysis tools all work fully
+        offline. The only time the App talks to the internet is to request
+        and show ads through Google AdMob, described below.
       </p>
     </blockquote>
 
     <h2 class="mt-10 font-display text-xl font-semibold text-ink">Data we collect</h2>
-    <p class="mt-3.5 text-[16px] text-muted">None. Specifically:</p>
+    <p class="mt-3.5 text-[16px] text-muted">
+      We (Prabha Labs) do not directly collect any personal data. Specifically:
+    </p>
     <ul class="mt-3.5 list-disc space-y-2 pl-5 text-[16px] text-muted">
       <li>
         <strong class="text-ink">No account or sign-up.</strong> The App never
@@ -34,21 +36,43 @@
       <li>
         <strong class="text-ink">No analytics or tracking.</strong> No
         analytics, attribution, or behavioral-tracking SDK is integrated into
-        the App.
+        the App beyond what Google AdMob itself uses to serve ads — see
+        Advertising below.
       </li>
       <li>
-        <strong class="text-ink">No advertising.</strong> The App shows no ads
-        and includes no advertising SDK.
+        <strong class="text-ink">Advertising.</strong> The App shows ads
+        served by Google AdMob. To select and deliver those ads, AdMob may
+        collect device identifiers (such as your advertising ID), approximate
+        location, and app interaction data, and share them with Google. This
+        happens only while an ad is being loaded or shown — it does not touch
+        your saved games, lesson progress, or preferences. See
+        <a
+          class="text-primary hover:underline"
+          href="https://policies.google.com/privacy"
+          target="_blank"
+          rel="noopener"
+          >Google's Privacy Policy</a
+        >
+        for details on how Google handles this data, and
+        <a
+          class="text-primary hover:underline"
+          href="https://support.google.com/googleplay/answer/2840625"
+          target="_blank"
+          rel="noopener"
+          >Android ad settings</a
+        >
+        if you'd like to opt out of personalized ads on your device.
       </li>
       <li>
         <strong class="text-ink">No crash or diagnostic reporting service</strong>
         is integrated.
       </li>
       <li>
-        <strong class="text-ink">No internet access.</strong> The App does not
-        request the Android internet permission and cannot make network
-        requests. The built-in chess engine and rules logic run entirely on
-        your device.
+        <strong class="text-ink">Internet access is used only for ads.</strong>
+        Playing, learning, and analyzing games never requires a connection —
+        the built-in chess engine and rules logic run entirely on your device.
+        The App requests the Android internet permission solely so Google
+        AdMob can load and display ads.
       </li>
     </ul>
 
@@ -65,23 +89,27 @@
       <li>is never visible to us or to any third party,</li>
       <li>
         and is permanently deleted when you clear the App's storage or
-        uninstall it (Android Settings → Apps → EM² Chess → Storage).
+        uninstall it (Android Settings → Apps → EM Squared Chess → Storage).
       </li>
     </ul>
 
     <h2 class="mt-10 font-display text-xl font-semibold text-ink">Third parties</h2>
     <p class="mt-3.5 text-[16px] text-muted">
-      We do not share data with third parties, because we do not collect any.
-      The App does not embed any third-party service that receives data about
-      you or your device.
+      We do not sell or share any of your on-device data (games, lesson
+      progress, preferences) with anyone. The only third-party service
+      embedded in the App is Google AdMob, which receives limited device data
+      solely to serve and measure ads, as described above. No other
+      third-party service is integrated into the App.
     </p>
 
     <h2 class="mt-10 font-display text-xl font-semibold text-ink">Children's privacy</h2>
     <p class="mt-3.5 text-[16px] text-muted">
-      EM² Chess does not knowingly collect personal information from anyone,
-      including children. Because the App collects no data at all, it does not
-      raise the data-collection concerns that children's-privacy laws (such as
-      COPPA) are designed to address.
+      EM Squared Chess does not knowingly collect personal information directly from
+      anyone, including children. The App does show ads through Google
+      AdMob, which may collect limited device data as described above; if you
+      are a parent or guardian with concerns about ads shown to a child using
+      the App, you can manage ad personalization through your device's
+      Android ad settings.
     </p>
 
     <h2 class="mt-10 font-display text-xl font-semibold text-ink">
